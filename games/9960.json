@@ -1,0 +1,45 @@
+{
+    "game_settings": {
+        "game_id": "9960",
+        "game_password": "hC75",
+        "game_status": 2,
+        "creater": "1259111272"
+    },
+    "teams": {
+        "all_players": [
+            "954312880",
+            "5011544502"
+        ],
+        "red_team": [
+            "1259111272",
+            "334701164"
+        ],
+        "blue_team": [
+            "5011544502",
+            "954312880"
+        ],
+        "red_team_cap": "1259111272",
+        "blue_team_cap": "5011544502",
+        "queue": "bt"
+    },
+    "field": {
+        "all_words": [
+            "цезарь",
+            "скрипка",
+            "ртуть",
+            "бычок",
+            "ракета"
+        ],
+        "red_words": [
+            "скрипка"
+        ],
+        "blue_words": [],
+        "grey_words": [
+            "цезарь",
+            "ракета",
+            "бычок"
+        ],
+        "black_word": "ртуть",
+        "key": null
+    }
+}
